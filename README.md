@@ -16,4 +16,4 @@ The code uses selectors to get DOM elements and user input values. The code uses
 
 
 
-This is my completed student project based on this  [starter repository](https://github.com/udacity/project-pixel-art-maker-starter).
+This is my completed project based on this  [starter repository](https://github.com/udacity/project-pixel-art-maker-starter).
