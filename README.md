@@ -1,4 +1,5 @@
 # Pixel Art Maker
+**Project created as part of the Udacity Introduction to Programming Nanodegree**
 
 The entire project is done with HTML, CSS, and JavaScript.
 
